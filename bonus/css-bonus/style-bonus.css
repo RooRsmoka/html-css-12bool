@@ -1,0 +1,24 @@
+.row {
+    height: 50px;
+}
+
+.red {
+    background-color: crimson;
+}
+
+.brown {
+    background-color: saddlebrown;
+}
+
+.pink {
+    background-color: lightsalmon;
+}
+
+.sky {
+    background-color: lightskyblue;
+}
+
+.terrain {
+    background-color: brown;
+    border-top: 2px #000 solid;
+}
