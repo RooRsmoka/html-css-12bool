@@ -1,0 +1,29 @@
+.blue {
+    height: 40px;
+    line-height: 40px;
+    border: 1px #fff solid;
+    text-align: center;
+    background-color: #006EFF;
+    color: #fff;
+}
+
+.blue-big {
+    height: 60px;
+    line-height: 60px;
+    border: 1px #fff solid;
+    text-align: center;
+    background-color: #006EFF;
+    color: #fff;
+}
+
+.green {
+    height: 40px;
+    line-height: 40px;
+    border: 1px #006EFF solid;
+    text-align: center;
+    background-color: #00E552;
+}
+
+.nested {
+    padding: 10px;
+}
